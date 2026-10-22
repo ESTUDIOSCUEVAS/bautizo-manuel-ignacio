@@ -1,11 +1,9 @@
-# Bautizo Manuel Ignacio · Propuesta moderna
+# Bautizo de Manuel Ignacio · Invitación interactiva
 
-Abrir index.html para revisar. Ilustración integrada en el HTML, sin dependencias de instalación.
+Abrir index.html y tocar el sello MI para descubrir la invitación. Incluye apertura animada, transiciones al deslizar, ubicaciones de ceremonia y celebración, opción de volver al inicio y soporte para movimiento reducido.
 
-## Publicación
-Reemplazar index.html en el repositorio bautizo-manuel-ignacio. Cloudflare Pages: rama main; Framework None; comando de build vacío; salida /.
+Reemplaza index.html en el repositorio existente. Cloudflare Pages: main, Framework None, Build command vacío, directorio de salida /. No subir la carpeta de vista previa ni archivos de configuración internos.
 
-## Contenido
-Misa 12:00 p. m., Santuario de Guadalupe. Celebración a partir de 2:00 p. m., Campestre Santa Bárbara. Botones de ubicación con los enlaces proporcionados. Fecha de ejemplo: sábado 20 de febrero de 2027, marcada como provisional.
+Las ilustraciones están integradas en el HTML. Se incluye assets/safari.jpg como respaldo. Google Fonts requiere conexión; hay alternativas locales.
 
-Falta confirmar fecha real y contacto de asistencia si se desea. Tipografías mediante Google Fonts con alternativas locales.
+Fecha provisional: sábado 20 de febrero de 2027. Horarios confirmados: misa 12:00 p. m.; celebración desde 2:00 p. m. Nombres y enlaces de ubicación incluidos según la información proporcionada. Falta la fecha definitiva y un contacto si se desea confirmación de asistencia.
