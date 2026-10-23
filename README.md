@@ -1,9 +1,15 @@
-# Bautizo de Manuel Ignacio
+# Mi Bautizo · Manuel Ignacio
 
-Invitación continua: sobre interactivo, listón azul, concha bautismal e ilustraciones del Santuario y la pérgola basadas en las referencias. Sin flores ni calendario. Las tipografías y las ilustraciones están integradas en index.html.
+Invitación con concha protagonista, relieve marfil y champaña, listón azul y marco continuo. Incluye apertura interactiva, texto real accesible y dos botones con los enlaces proporcionados. Sin flores, fotos de lugares ni calendario.
 
-Sube index.html y assets/portada-whatsapp.jpg a la raíz del repositorio, reemplazando los anteriores. Se incluye también el archivo original de las ilustraciones.
+## Actualizar GitHub
+1. Reemplaza index.html en la raíz del repositorio.
+2. Reemplaza assets/portada-whatsapp.jpg para la miniatura.
+3. Confirma los cambios y espera el despliegue de Cloudflare Pages.
 
-Cloudflare Pages: rama main, framework None, compilación vacía, salida /. Dominio configurado para WhatsApp: https://bautizo-manuel-ignacio.pages.dev/ . Si cambia, actualiza og:url y og:image.
+Las fuentes y los fondos ya están integrados en index.html; puedes abrirlo directamente en el navegador sin instalar nada. Se incluyen también los fondos como archivos independientes.
 
-14 de noviembre de 2026. Ceremonia 12:00 p.m. Santuario de Guadalupe. Celebración 2:00 p.m. Campestre Santa Bárbara. Los enlaces de Maps son los proporcionados.
+Cloudflare Pages: rama main, framework None, comando de compilación vacío, directorio de salida /. URL configurada en metadatos: https://bautizo-manuel-ignacio.pages.dev/ . Si cambia, modifica og:url y og:image. WhatsApp puede conservar temporalmente una miniatura anterior.
+
+## Datos
+14 de noviembre de 2026. Ceremonia 12:00 p.m., Santuario de Guadalupe. Celebración desde las 2:00 p.m., Campestre Santa Bárbara.
