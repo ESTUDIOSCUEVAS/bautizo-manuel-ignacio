@@ -1,15 +1,20 @@
-# Mi Bautizo · Manuel Ignacio
+# Bautizo de Manuel Ignacio · Diseño de referencia
 
-Invitación con concha protagonista, relieve marfil y champaña, listón azul y marco continuo. Incluye apertura interactiva, texto real accesible y dos botones con los enlaces proporcionados. Sin flores, fotos de lugares ni calendario.
+La portada utiliza la imagen proporcionada. Al tocar el listón, sus dos mitades se retiran y se abre una invitación continua con el mismo azul suave, marfil y dorado. Tipografía, datos y botones del interior son texto real. Incluye adaptación a movimiento reducido.
 
-## Actualizar GitHub
-1. Reemplaza index.html en la raíz del repositorio.
-2. Reemplaza assets/portada-whatsapp.jpg para la miniatura.
-3. Confirma los cambios y espera el despliegue de Cloudflare Pages.
+## Para revisar
+Descomprime y abre index.html en un navegador. Las fuentes e imágenes están integradas: no necesitas instalar nada ni ejecutar comandos.
 
-Las fuentes y los fondos ya están integrados en index.html; puedes abrirlo directamente en el navegador sin instalar nada. Se incluyen también los fondos como archivos independientes.
+## Para actualizar GitHub / Cloudflare Pages
+Reemplaza index.html y assets/portada-whatsapp.jpg. La carpeta assets incluye también los gráficos originales utilizados. No necesitas subir README.md.
 
-Cloudflare Pages: rama main, framework None, comando de compilación vacío, directorio de salida /. URL configurada en metadatos: https://bautizo-manuel-ignacio.pages.dev/ . Si cambia, modifica og:url y og:image. WhatsApp puede conservar temporalmente una miniatura anterior.
+Cloudflare Pages: rama main, framework None, comando de compilación vacío, directorio de salida /. URL configurada en metadatos: https://bautizo-manuel-ignacio.pages.dev/ . Si cambia, actualiza og:url y og:image. WhatsApp puede conservar una miniatura anterior durante un tiempo.
 
-## Datos
-14 de noviembre de 2026. Ceremonia 12:00 p.m., Santuario de Guadalupe. Celebración desde las 2:00 p.m., Campestre Santa Bárbara.
+## Datos incluidos
+Manuel Ignacio Loya Naranjo.
+Papás: Yara Grisel Naranjo García y Juan Manuel Loya Valverde.
+Padrinos: Paola Lizeth Mora Pérez y Efraín Loya Valverde.
+Sábado 14 de noviembre de 2026.
+Ceremonia: Santuario de Guadalupe, 12:00 p.m.
+Celebración: Campestre Santa Bárbara, desde las 2:00 p.m.
+Los enlaces de ubicación son los proporcionados. Sin botón de guardar fecha.
