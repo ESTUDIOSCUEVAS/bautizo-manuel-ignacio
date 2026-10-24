@@ -1,12 +1,11 @@
-# Invitación · versión ligera para compartir
+# Corrección para el repositorio actual
 
-IMPORTANTE: sube index.html Y TODA la carpeta assets a la raíz del repositorio. Ahora los recursos son externos; subir solo index.html dejaría sin fuentes, música y fotos la invitación. Para revisarla localmente, descomprime todo el ZIP y abre index.html.
+Los recursos se encuentran en la raíz junto a index.html. Esta versión utiliza esa organización.
 
-La página principal se ha reducido de aproximadamente 7.5 MB a 19 KB. La miniatura de WhatsApp está en assets/portada-whatsapp-v14.jpg; el archivo index.html ya apunta a esa dirección pública.
+SOLO reemplaza index.html con el incluido en este ZIP, confirma los cambios y espera la publicación de Cloudflare. No hace falta mover ni volver a subir las imágenes existentes.
 
-Después de que Cloudflare termine de publicar, comparte el enlace con ?v=14 al final para solicitar una vista previa nueva. Comprueba que /assets/portada-whatsapp-v14.jpg abra directamente en el navegador. Si no abre o hay un control de acceso, WhatsApp tampoco podrá obtenerla.
+Si necesitas reconstruir el sitio, sube todos los archivos de este ZIP juntos a la raíz. No requiere carpeta assets.
 
-Se conservan portada, apertura del listón, foto, oración al final, regalo en efectivo y canción You Are My Sunshine con control de reproducción.
+La miniatura apunta a https://bautizo-manuel-ignacio.pages.dev/portada-whatsapp-v14.jpg . Tras publicar, prueba compartir el enlace con ?v=16 para solicitar una vista previa nueva.
 
-## Últimos ajustes
-La oración aparece debajo del retrato con mayor interlineado. La nota de regalo dice Regalo / Efectivo. El monograma MI usa la misma cursiva de Ignacio y el cierre dice ¡Te esperamos! en tamaño grande. Se conserva la música y la versión ligera para compartir.
+Conserva foto, oración debajo del retrato, Regalo / Efectivo, monograma cursivo, cierre ¡Te esperamos! y música.
