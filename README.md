@@ -13,3 +13,6 @@ Cloudflare Pages: main, framework None, comando de compilación vacío, salida /
 ## Datos
 Manuel Ignacio Loya Naranjo. Papás: Yara Grisel Naranjo García y Juan Manuel Loya Valverde. Padrinos: Paola Lizeth Mora Pérez y Efraín Loya Valverde.
 Sábado 14 de noviembre de 2026. Ceremonia 12:00 p.m. en Santuario de Guadalupe. Celebración desde las 2:00 p.m. en Campestre Santa Bárbara. Incluye los enlaces de Maps proporcionados. Sin botón de calendario.
+
+## Actualización
+Incluye retrato de Manuel Ignacio con encuadre ovalado, sin modificar rasgos, la oración proporcionada y nota de regalo en efectivo. Canción You Are My Sunshine integrada: inicia al tocar el listón, se repite y tiene botón para pausar/reanudar. La oración se encuentra al final, después de regalo en efectivo.
